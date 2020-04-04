@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ProjectEuler.Solutions.Q010.Q010</StartupObject>
+    <StartupObject>ProjectEuler.Solutions.Q011.Q011</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -72,6 +72,7 @@
     <Compile Include="Solutions\Q009\Q009.cs" />
     <Compile Include="Solutions\Q010\Q010.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Solutions\Q011\Q011.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
