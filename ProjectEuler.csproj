@@ -48,7 +48,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ProjectEuler.Solutions.Q014.Q014</StartupObject>
+    <StartupObject>ProjectEuler.Solutions.Q015.Q015</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -76,6 +79,7 @@
     <Compile Include="Solutions\Q012\Q012.cs" />
     <Compile Include="Solutions\Q013\Q013.cs" />
     <Compile Include="Solutions\Q014\Q014.cs" />
+    <Compile Include="Solutions\Q015\Q015.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
