@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ProjectEuler.Solutions.Q015.Q015</StartupObject>
+    <StartupObject>ProjectEuler.Solutions.Q016.Q016</StartupObject>
   </PropertyGroup>
   <PropertyGroup>
     <NoWin32Manifest>true</NoWin32Manifest>
@@ -56,6 +56,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -80,6 +81,7 @@
     <Compile Include="Solutions\Q013\Q013.cs" />
     <Compile Include="Solutions\Q014\Q014.cs" />
     <Compile Include="Solutions\Q015\Q015.cs" />
+    <Compile Include="Solutions\Q016\Q016.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
