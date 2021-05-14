@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ProjectEuler.Solutions.Q000.ArrayChallenge</StartupObject>
+    <StartupObject>ProjectEuler.Solutions.Q023.Q023</StartupObject>
   </PropertyGroup>
   <PropertyGroup>
     <NoWin32Manifest>true</NoWin32Manifest>
@@ -94,6 +94,7 @@
     <Compile Include="Solutions\Q020\Q020.cs" />
     <Compile Include="Solutions\Q021\Q021.cs" />
     <Compile Include="Solutions\Q022\Q022.cs" />
+    <Compile Include="Solutions\Q023\Q023.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
